@@ -1,0 +1,66 @@
+{
+  "title": "HIV Pol Run 1 CODEHOP",
+  "basecalledPath": "fastq_pass",
+  "samples": [
+    {
+      "name": "Sample01C",
+      "description": "",
+      "barcodes": [ "BC01" ]
+    },
+    {
+      "name": "Sample02C",
+      "description": "",
+      "barcodes": [ "BC02" ]
+    },
+    {
+      "name": "Sample03C",
+      "description": "",
+      "barcodes": [ "BC03" ]
+    },
+    {
+      "name": "Sample04C",
+      "description": "",
+      "barcodes": [ "BC04" ]
+    },
+    {
+      "name": "Sample05C",
+      "description": "",
+      "barcodes": [ "BC05" ]
+    },
+    {
+      "name": "Sample06C",
+      "description": "",
+      "barcodes": [ "BC06" ]
+    },
+    {
+      "name": "Sample07C",
+      "description": "",
+      "barcodes": [ "BC07" ]
+    },
+    {
+      "name": "Sample08C",
+      "description": "",
+      "barcodes": [ "BC08" ]
+    },
+    {
+      "name": "Sample09C",
+      "description": "",
+      "barcodes": [ "BC09" ]
+    },
+    {
+      "name": "Sample10C",
+      "description": "",
+      "barcodes": [ "BC10" ]
+    },
+    {
+      "name": "Sample11C",
+      "description": "",
+      "barcodes": [ "BC11" ]
+    },
+    {
+      "name": "Sample12C",
+      "description": "",
+      "barcodes": [ "BC12" ]
+    }
+  ]
+}

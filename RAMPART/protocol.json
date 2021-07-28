@@ -1,0 +1,9 @@
+{
+	"name": "ARTIC HIV1 protocol CODEHOP v1.0",
+	"description": "Amplicon based sequencing of HIV-1 pol gene.",
+	"url": "http://artic.network/"
+	"annotationOptions": {
+		"require_two_barcodes": "false",
+		"barcode_set": "rapid"
+	}
+}
